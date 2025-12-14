@@ -13,7 +13,7 @@ https://www.figma.com/design/fFoYSMK6TKlXerujzXwzKR/QuickNotes?node-id=0-1&t=1lb
 
 ## Conținut repository
 
-- `export-notes/` – ecrane exportate din Figma (PNG)
+- `export out/` – ecrane exportate din Figma (PNG)
 - `README.md` – descrierea proiectului
 
 ---
